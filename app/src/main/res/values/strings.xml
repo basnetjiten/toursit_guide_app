@@ -1,0 +1,84 @@
+<resources>
+<string name="app_name">tourist_facilitator</string>
+<string name="title_activity_maps">Map</string>
+<string name="title_activity_login">Login</string>
+
+<string name="server_ip_address">192.168.0.103</string>
+
+<string name="google_maps_key">value</string>
+<!-- Strings related to login -->
+<string name="prompt_email">Login</string>
+<string name="prompt_password">Password</string>
+<string name="action_sign_in">Login</string>
+<string name="action_sign_in_short">Login</string>
+<string name="error_invalid_email">This email address is invalid </string>
+<string name="error_invalid_password">This password is too short </string>
+<string name="error_incorrect_password">This password is incorrect </string>
+<string name="error_authentication_failed">Login Authentication failed </string>
+<string name="error_login_other">Unexpected login error occurs</string>
+<string name="error_field_required">This field is required</string>
+<string name="permission_rationale">"Contacts permissions are needed for providing email
+    completions."
+</string>
+
+<string name="navigation_drawer_open">Open navigation drawer</string>
+<string name="navigation_drawer_close">Close navigation drawer</string>
+<string name="action_register_in">Register</string>
+<string name="filter_view_chose_city">Choose a city</string>
+<string name="Szukaj_Pokoi">Search Rooms</string>
+<string name="City">City</string>
+<string name="data_przyjazdu">Check-In</string>
+<string name="data_wyjazdu">Check out</string>
+<string name="loading">Loading...</string>
+<string name="DATA_FORMAT">yyyy-MM-dd</string>
+<string name="Kryteria">Criteria</string>
+<string name="Ilosc_miejsc">People</string>
+<string name="Szukaj">Search</string>
+<string name="title_activity_hotel_list">List of hotels</string>
+<string name="title_activity_hotel_detail">Room details</string>
+<string name="title_activity_reservation">Your bookings</string>
+<!--<string name="text">you_don\'t have any reservations</string>-->
+
+<string name="action_settings">Settings</string>
+<string name="not_logged_in">Not logged in</string>
+<string name="hotel_description">Hotel Description</string>
+<string name="default_text">Default text</string>
+<string name="food_offer_title">Meals</string>
+<string name="hotel_facilities_title">Facilities</string>
+<string name="reservation_button">Book this room</string>
+<string name="reservation">Most recent booking for</string>
+<string name="title_dialog_reservation">Most recent booking for</string>
+<string name="content_dialog_reservation">Do you certainly want to book this room?</string>
+<string name="longer_positive">So</string>
+<string name="negative">Not</string>
+<string name="error">Error</string>
+<string name="ok">Ok</string>
+<string name="please_wait">Please wait</string>
+<string name="process_request">We realize your request</string>
+<string name="your_resercation">Your booking</string>
+<string name="reservation_success">Room was Booked</string>
+<string name="nie_masz_adnych_rezerwacji">you don\'t have any reservations</string>
+<string name="status">STATUS</string>
+<string name="no_offer">Lack</string>
+<string name="string_register">Registration</string>
+<string name="user_name">User name</string>
+<string name="user_pswd">Password</string>
+<string name="New_acc">New Account</string>
+<string name="registartion_succ">Registration completed successfully</string>
+    <string name="text">you_don\'t_have_any_reservations</string>
+    <string name="room_name">Room Name</string>
+    <string name="city">text</string>
+    <string name="rating">Rating:</string>
+    <string name="hotel_address">Hotel Address</string>
+    <!--<string name="rating">Rating:</string>-->
+    <string name="price">Price</string>
+    <string name="hotel_name">Hotel Name</string>
+
+    <string-array name="numerOfPeople">
+    <item>1 Person</item>
+    <item>2 People</item>
+    <item>3 People</item>
+    <item>4 People</item>
+    <item>5 People</item>
+</string-array>
+</resources>
